@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "Node",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true,
+		"useDefineForClassFields": false,
+		"strict": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"outDir": "build"
+	},
+	"include": ["src", "test"]
+}
